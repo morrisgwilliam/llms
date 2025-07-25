@@ -8,7 +8,7 @@ npm run build
 # Run
 
 ```bash
-node build/index.js path/to/build/index.js # node server
+node build/index.js ../mcp-server/build/index.js # node server
 ```
 
 read more at https://modelcontextprotocol.io/quickstart/client
